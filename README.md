@@ -5,7 +5,7 @@ if you have any question, please contact me on discord sunyt#7055
 First you need build python environment, then use pip install -r requirements.txt to install all needed module
 
 ## Instructions:<br>
-Mode 1:<br> 
+`Mode 1`:<br> 
 * put the proxies in proxies.txt<br>
 * run py file<br>
 * give catchall domain with "@", amount, password<br>
