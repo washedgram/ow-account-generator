@@ -10,7 +10,7 @@ First you need build python environment, then use pip install -r requirements.tx
 * run py file<br>
 * give catchall domain with "@", amount, password<br>
         
-Moede 2:<br>
+`Moede 2`:<br>
 * put the proxies in proxies.txt, email in email.txt<br>
 * run py file<br>
         
